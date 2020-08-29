@@ -7,7 +7,7 @@ I am an incoming Software Developer at Cloudera, Inc '21. I am pursuing final ye
 https://www.sanchichopra.com/ 
 
 - 🔭 I’m currently working on Competitive Coding!
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Docker.
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/sanchi-chopra/
 
 ![Sanchi's Github Stats](https://github-readme-stats.vercel.app/api?username=SanchiChopra&count_private=true&show_icons=true&theme=radical)
