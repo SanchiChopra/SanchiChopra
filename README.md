@@ -7,7 +7,7 @@ I am a Software Engineer Intern at Cloudera, Inc '21. I am pursuing final year u
 https://www.sanchichopra.com/ 
 
 - 🔭 I’m currently working on Competitive Coding!
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning Scala.
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/sanchi-chopra/
 
 ![Sanchi's Github Stats](https://github-readme-stats.vercel.app/api?username=SanchiChopra&count_private=true&show_icons=true&theme=radical)
